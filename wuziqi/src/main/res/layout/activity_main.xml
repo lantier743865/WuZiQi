@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context="com.lantier.xxb_student.wuziqi.MainActivity">
+<com.lantier.xxb_student.wuziqi.WuZiQiPanel
+    android:id="@+id/wuziqi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/again"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:text="再来一局"/>
+
+
+</RelativeLayout>
