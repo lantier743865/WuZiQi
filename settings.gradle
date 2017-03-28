@@ -1,1 +1,1 @@
-include ':app', ':wuziqi', ':clockdial'
+include ':app', ':wuziqi', ':clockdial', ':surfaceviewtemplate'
