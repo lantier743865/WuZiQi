@@ -1,1 +1,1 @@
-include ':app', ':wuziqi'
+include ':app', ':wuziqi', ':clockdial'

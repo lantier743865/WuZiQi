@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ajustpan.iml" filepath="$PROJECT_DIR$/Ajustpan.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clockdial/clockdial.iml" filepath="$PROJECT_DIR$/clockdial/clockdial.iml" />
       <module fileurl="file://$PROJECT_DIR$/wuziqi/wuziqi.iml" filepath="$PROJECT_DIR$/wuziqi/wuziqi.iml" />
     </modules>
   </component>
